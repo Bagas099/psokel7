@@ -7,19 +7,19 @@
     <title>Data Products - SantriKoding.com</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
-<body style="background: lightgray">
+<body style="background: rgb(124, 213, 175)">
 
     <div class="container mt-5">
         <div class="row">
             <div class="col-md-12">
                 <div>
-                    <h3 class="text-center my-4">Tutorial Laravel 11 untuk Pemula</h3>
-                    <h5 class="text-center"><a href="https://santrikoding.com">www.santrikoding.com</a></h5>
+                    <h3 class="text-center my-4">Halo Dunia</h3>
+                    <h5 class="text-center"><a>Menembus Batas dan Melampauinya</a></h5>
                     <hr>
                 </div>
                 <div class="card border-0 shadow-sm rounded">
                     <div class="card-body">
-                        <a href="{{ route('products.create') }}" class="btn btn-md btn-success mb-3">ADD PRODUCT</a>
+                        <a href="{{ route('products.create') }}" class="btn btn-md btn-success mb-3">TULIS CERITAMU</a>
                         <table class="table table-bordered">
                             <thead>
                                 <tr>
